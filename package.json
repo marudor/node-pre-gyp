@@ -1,7 +1,7 @@
 {
   "name": "@marudor/node-pre-gyp",
   "description": "Node.js native addon binary install tool",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "keywords": [
     "native",
     "addon",
@@ -21,7 +21,6 @@
   "main": "./lib/node-pre-gyp.js",
   "dependencies": {
     "detect-libc": "^1.0.2",
-    "mkdirp": "^1.0.4",
     "needle": "^2.5.0",
     "nopt": "^5.0.0",
     "npm-packlist": "^2.1.2",
